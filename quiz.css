@@ -90,3 +90,14 @@ button:focus {
     background-color: #5e3370;
     outline: none;
 }
+
+.header-links {
+    font-size: .9rem;
+    padding: .5rem;
+}
+
+.drawing-link {
+    font-size: .9rem;
+    padding: .5rem;
+    margin-left: 1rem;
+}
