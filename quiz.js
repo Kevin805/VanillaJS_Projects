@@ -40,6 +40,38 @@ const quizData = [
         c: 'White Lines',
         d: 'The Umbrella Academy season 2',
         correct: 'b',
+    },
+    {
+        question: 'Question 5:What was the most streamed show on Netflix in 2020?',
+        a: 'Too Hot to Handle',
+        b: 'The Queen\'s Gambit',
+        c: 'White Lines',
+        d: 'The Umbrella Academy season 2',
+        correct: 'b',
+    },
+    {
+        question: 'Question 5:What was the most streamed show on Netflix in 2020?',
+        a: 'Too Hot to Handle',
+        b: 'The Queen\'s Gambit',
+        c: 'White Lines',
+        d: 'The Umbrella Academy season 2',
+        correct: 'b',
+    },
+    {
+        question: 'Question 5:What was the most streamed show on Netflix in 2020?',
+        a: 'Too Hot to Handle',
+        b: 'The Queen\'s Gambit',
+        c: 'White Lines',
+        d: 'The Umbrella Academy season 2',
+        correct: 'b',
+    },
+    {
+        question: 'Question 5:What was the most streamed show on Netflix in 2020?',
+        a: 'Too Hot to Handle',
+        b: 'The Queen\'s Gambit',
+        c: 'White Lines',
+        d: 'The Umbrella Academy season 2',
+        correct: 'b',
     }
 ];
 
