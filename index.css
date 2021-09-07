@@ -56,15 +56,15 @@ body {
         height: 100%;
         margin: 0;
         font-family: 'Montserrat', sans-serif;
-        font-weight: 300;
-        font-size: 25px;
+        font-weight: 350;
+        font-size: 30px;
         color: rgb(255, 255, 255);
         float: left;
-        padding-bottom: .5rem;
+        padding-bottom: .75rem;
     }
 
     #quiz-link:hover {
-        color: rgb(135, 135, 135);
+        color: rgb(162, 162, 162);
 
     }
 
@@ -81,7 +81,7 @@ body {
     }
 
     #challenges-link:hover {
-        color: rgb(135, 135, 135);
+        color: rgb(148, 148, 148);
 
     }
 
