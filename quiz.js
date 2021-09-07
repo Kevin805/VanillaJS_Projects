@@ -72,6 +72,14 @@ const quizData = [
         c: 'China',
         d: 'Northern Ireland',
         correct: 'a',
+    },
+    {
+        question: 'Question 10:Where would you find the largest land mammal',
+        a: 'North America',
+        b: 'South America',
+        c: 'Africa',
+        d: 'Eastern Europe',
+        correct: 'a',
     }
 ];
 
