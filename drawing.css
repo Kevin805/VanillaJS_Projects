@@ -33,11 +33,11 @@ canvas {
 }
 
 .toolbox {
-    background-color: rgb(147, 177, 165);
+    background-color: rgb(133, 165, 153);
     border: 2px solid rgb(0, 0, 0);
     display: flex;
-    padding: 1rem;
-    width: 804px;
+    padding: 1.2rem;
+    width: 900px;
 }
 
 .toolbox > * {
